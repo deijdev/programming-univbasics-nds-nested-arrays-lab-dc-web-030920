@@ -56,7 +56,6 @@ end
 
 def matrix_lookup(matrix, row, column)
   sorted_matrix[1][1]
-  return matrix_lookup
 end
 
 def matrix_update(matrix, row, column, new_value)
