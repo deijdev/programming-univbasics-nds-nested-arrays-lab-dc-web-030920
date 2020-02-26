@@ -17,7 +17,9 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  
+  STORAGE_ROOM = [
+    
+    ]
 end
 
 def sorted_matrix
