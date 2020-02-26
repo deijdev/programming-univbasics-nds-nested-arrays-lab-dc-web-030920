@@ -55,9 +55,9 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  sorted_matrix[1][1]
+  matrix[row][column]
 end
 
 def matrix_update(matrix, row, column, new_value)
-  sorted_matrix[0][2]="Brussel Sprouts"
+  matrix[row][column]=new_value
 end
