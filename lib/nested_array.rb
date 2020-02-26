@@ -38,8 +38,18 @@ end
 def sorted_matrix
   sorted_storage_room=[
     [
+      "Eggplant",
+    "Grapefruit",
+    "Oranges",
+    "Pineapple",
+    "Watermelon"
       ],
     [
+      "Asparagus",
+      "Avocadoes",
+      "Grapes",
+      "Potatoes",
+      "Strawberries"
       ]
     ]
 end
