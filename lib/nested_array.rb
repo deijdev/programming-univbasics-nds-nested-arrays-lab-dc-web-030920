@@ -24,7 +24,7 @@ def assembled_matrix
   "Grapes",
   "Avocadoes",
   "Asparagus"
-]
+],
 
 CONVENTIONAL_PRODUCE = [
   "Grapefruit",
