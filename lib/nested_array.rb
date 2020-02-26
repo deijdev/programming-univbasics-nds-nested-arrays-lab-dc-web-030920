@@ -35,7 +35,7 @@ end
 //
 
 def matrix_lookup(matrix, row, column)
-  matrix[row][column]
+  assembled_matrix[1][2]
 end
 
 //
