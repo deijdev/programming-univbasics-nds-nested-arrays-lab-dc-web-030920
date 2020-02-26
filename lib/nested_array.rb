@@ -17,7 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  STORAGE_ROOM = [[
+  storage_room = [[
   "Strawberries",
   "Potatoes",
   "Grapes",
