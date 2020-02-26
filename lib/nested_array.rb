@@ -17,14 +17,14 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  storage_room= [
+[
   CONVENTIONAL_PRODUCE,
   ORGANIC_PRODUCE
 ]
 end
 
 def sorted_matrix
-  sorted_storage_room=[
+  [
     CONVENTIONAL_PRODUCE.sort, 
     ORGANIC_PRODUCE.sort
     ]
